@@ -1,0 +1,5 @@
+<data>
+	<record name="uploadUserName" value="admin" />
+	<record name="uploadUserPassword" value="password1" />
+	<record name="uploadUrl" value="https://uat.goflip.com.sg/UserExternalUpload" />
+</data>

@@ -1,0 +1,4 @@
+softTabs = false
+
+TM_CMAKE_BINARY_DIR = "$TM_PROJECT_DIRECTORY/build"
+TM_MAKE_FILE = "$TM_CMAKE_BINARY_DIR/Makefile"
